@@ -7,3 +7,13 @@
 /fastestmod.feather
 /fastestmod.geojson
 /MercedCounty.geojson
+.idea/.gitignore
+.idea/.name
+.idea/encodings.xml
+.idea/MercedPublicTransportPython.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/MercedPublicTransitToolkit.cpython-311.pyc
+__pycache__/utils.cpython-311.pyc
